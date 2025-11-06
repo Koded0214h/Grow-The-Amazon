@@ -26,9 +26,9 @@ export default function Navbar({ onPlantTree, isMobile }) {
             <Link to='/forest' className="text-sm font-medium text-white hover:text-primary transition-colors">
               Forest
             </Link>
-            <a className="text-sm font-medium text-white hover:text-primary transition-colors" href="#">
+            <Link to='/impact' className="text-sm font-medium text-white hover:text-primary transition-colors" href="#">
               Our Impact
-            </a>
+            </Link>
           </div>
           <button
             onClick={onPlantTree}

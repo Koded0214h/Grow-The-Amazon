@@ -1,8 +1,5 @@
-# Forest Page Responsiveness Tasks
+# TODO: Create Our Impact Page and Link to Navbar
 
-- [x] Update tree counter positioning for responsive design
-- [x] Update hovered tree info panel positioning
-- [x] Update search interface positioning (center on small screens)
-- [x] Update instructions positioning and layout
-- [x] Update refresh button positioning
-- [x] Update error display positioning
+- [ ] Create OurImpact.jsx page component in Amazon/src/pages/ with basic content
+- [ ] Add new route "/impact" in App.jsx pointing to OurImpact component
+- [ ] Update Navbar.jsx to link "Our Impact" to "/impact" for desktop and mobile menus
